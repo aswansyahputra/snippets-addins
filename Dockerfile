@@ -1,7 +1,7 @@
-FROM rocker:binder/latest
+FROM rocker:binder/3.5.2
 
-FROM rocker:rstudio/latest
+FROM rocker:rstudio/3.5.2
 
-FROM rocker:tidyverse/latest
+FROM rocker:tidyverse/3.5.2
 
-FROM rocker:r-ver/latest
+FROM rocker:r-ver/3.5.2
