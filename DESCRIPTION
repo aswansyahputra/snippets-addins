@@ -1,16 +1,15 @@
-Type: Compendium
-Package: snippets-addins
+Package: addinsku
+Title: Addinsku
 Version: 0.1.0
 Authors@R: 
-    person(given = "Muhammad Aswan",
-           family = "Syahputra",
+    person(given = "nama depan",
+           family = "nama belakang",
            role = c("aut", "cre"),
-           email = "aswansyahputra@sensolution.id")
-Description: Belajar membuat RStudio snippets dan addins.
-Depends: tidyverse
-URL: https://github.com/aswansyahputra/snippets-addins
-BugReports: https://github.com/aswansyahputra/snippets-addins/issues
+           email = "email")
+Description: Deskripsi
 License: MIT + file LICENSE
+Encoding: UTF-8
 Imports: 
     shiny,
-    miniUI
+    miniUI,
+    rstudioapi
