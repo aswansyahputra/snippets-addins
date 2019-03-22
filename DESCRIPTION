@@ -3,10 +3,10 @@ Title: Addinsku
 Version: 0.1.0
 Authors@R: 
     person(given = "nama depan",
-           family = "nama belakang",
+           family = "belakang",
            role = c("aut", "cre"),
-           email = "email")
-Description: Deskripsi
+           email = "email@domain.com")
+Description: Deskripsi mengenai paket.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: 
