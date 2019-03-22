@@ -10,3 +10,4 @@ Description: Belajar membuat RStudio snippets dan addins.
 Depends: tidyverse
 URL: https://github.com/aswansyahputra/snippets-addins
 BugReports: https://github.com/aswansyahputra/snippets-addins/issues
+License: MIT + file LICENSE
